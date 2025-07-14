@@ -33,6 +33,7 @@ This project uses **Hibernate Native SQL** and is **menu-driven**, includes **mu
 ---
 
 ## 📂 Project Structure
+```
 OnlineShoppingHibernate/
 ├── src/
 │   └── main/
@@ -51,8 +52,7 @@ OnlineShoppingHibernate/
 ├── orders.txt                # Exported order data
 ├── pom.xml                   # Maven configuration
 └── README.md                 # Project documentation
-
----
+```
 
 ## 🛠️ Prerequisites
 
