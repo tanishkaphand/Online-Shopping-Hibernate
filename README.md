@@ -9,7 +9,7 @@ Console based Online Shopping Project using Hibernate Native SQL and JPA
 ![Hibernate](https://img.shields.io/badge/Hibernate-7.0.5.Final-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Console--Based-informational)
 
-A **console-based online shopping system** built using **Hibernate 6.4.4**, **PostgreSQL**, and **Java 17**.  
+A **console-based online shopping system** built using **Hibernate 7.0.5**, **PostgreSQL**, and **Java 17**.  
 This project uses **Hibernate Native SQL** and is **menu-driven**, includes **multithreading (AutoSave)** and supports **file I/O** operations like exporting order data.
 
 ---
@@ -32,7 +32,7 @@ This project uses **Hibernate Native SQL** and is **menu-driven**, includes **mu
 | Layer            | Technology Used              |
 |------------------|------------------------------|
 | Language         | Java 17                      |
-| ORM              | Hibernate 6.4.4 (Native SQL) |
+| ORM              | Hibernate 7.0.5 (Native SQL) |
 | Persistence API  | Jakarta Persistence 3.1      |
 | Database         | PostgreSQL                   |
 | Build Tool       | Maven                        |
