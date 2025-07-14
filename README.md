@@ -95,7 +95,7 @@ Orders are automatically timestamped using @PrePersist.
 
 # Project Screenshots
 <img width="1818" height="762" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a2327390-79f5-488f-9247-41dcdde089b5" />
-<img width="1905" height="729" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6c894aa9-ef98-4b25-8561-0c23722dd645" />
+<img width="1870" height="729" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/2999a9d6-1f2b-4a45-a7e2-16555465076f" />
 <img width="1847" height="704" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/b93603ea-1082-450f-b9f8-bd8601aec6c6" />
 <img width="1848" height="574" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/996184ae-3550-40ad-8bbd-9efcd4782dbd" />
 <img width="1863" height="812" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/35dfad70-71df-4e95-a735-5db539315862" />
