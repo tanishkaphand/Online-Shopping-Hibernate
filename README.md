@@ -33,7 +33,7 @@ This project uses **Hibernate Native SQL** and is **menu-driven**, includes **mu
 |------------------|------------------------------|
 | Language         | Java 17                      |
 | ORM              | Hibernate 7.0.5 (Native SQL) |
-| Persistence API  | Jakarta Persistence 3.1      |
+| Persistence API  | Jakarta Persistence 3.2      |
 | Database         | PostgreSQL                   |
 | Build Tool       | Maven                        |
 | IDE              | Eclipse                      |
