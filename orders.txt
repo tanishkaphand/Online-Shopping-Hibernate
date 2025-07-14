@@ -1,0 +1,7 @@
+OrderID | Product | Quantity | Date
+--------------------------------------------
+1 | bluetooth | 1 | null
+2 | bluetooth | 2 | null
+3 | Bluetooth | 1 | null
+4 | laptop | 1 | 2025-07-15
+5 | laptop | 1 | 2025-07-15
