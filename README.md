@@ -1,4 +1,9 @@
+Group Members:
+1)Tanishka Phand
+
+2)Shravani Devkar
 # Online-Shopping-Hibernate
+
 Console based Online Shopping Project using Hibernate Native SQL and JPA
 # 🛒 Online Shopping System (Hibernate + PostgreSQL)
 
